@@ -1,2 +1,2 @@
-jbnjbjuhfjidfirst
+ print(jbnjbjuhfjidfirst)
 
